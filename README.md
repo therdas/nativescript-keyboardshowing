@@ -1,3 +1,6 @@
+**Archived: The changes in this repository were merged into the parent. This repository has been archived**
+**Please refer to [NathanaelA/nativescript-keyboardshowing](https://github.com/NathanaelA/nativescript-keyboardshowing)**
+
 [![npm](https://img.shields.io/npm/v/nativescript-keyboardshowing.svg)](https://www.npmjs.com/package/nativescript-keyboardshowing)
 [![npm](https://img.shields.io/npm/l/nativescript-keyboardshowing.svg)](https://www.npmjs.com/package/nativescript-keyboardshowing)
 [![npm](https://img.shields.io/npm/dt/nativescript-keyboardshowing.svg?label=npm%20d%2fls)](https://www.npmjs.com/package/nativescript-keyboardshowing)
